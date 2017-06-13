@@ -1,8 +1,5 @@
 ﻿using System;
 namespace PatternMatchingBF {
-    /// <summary>
-    /// BruteForce pattern matching algorithm
-    /// </summary>
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Enter text");
